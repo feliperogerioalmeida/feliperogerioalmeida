@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 
 
@@ -32,6 +33,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
