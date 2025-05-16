@@ -7,10 +7,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Desde jovem, sempre fui fascinado pela tecnologia e por entender como sites e sistemas eram construídos. Essa curiosidade me levou a conquistar uma vaga em Ciências da Computação em uma universidade federal. No entanto, o destino me levou aos Estados Unidos, onde joguei futebol e me formei em Contabilidade. Trabalhei como auditor, mas a paixão pelo desenvolvimento de software permaneceu, e hoje estou realizando uma transição para a área de tecnologia.
-- 💡  &nbsp; Sou desenvolvedor Full Stack e Backend, com experiência em tecnologias como React, Node.js, Next.js, Tailwind, MySQL, MongoDB, PostgreSQL, Python, entre outras. Recentemente, desenvolvi um e-commerce para minha loja de smartphones, integrando-o com uma API de pagamentos, o que permitiu controle de estoque e vendas online. Esse projeto foi essencial para consolidar minhas habilidades em integrações e gestão de sistemas.
-- 🚀 &nbsp; Meu objetivo profissional é continuar aprendendo novas tecnologias e aprimorando minhas habilidades. Estou sempre em busca de desafios que permitam crescimento e desenvolvimento, contribuindo para a construção de soluções inovadoras e otimizadas.
-- ⚽️ &nbsp; Além do desenvolvimento, sou entusiasta de esportes e gosto de praticar futevôlei e academia, atividades que me ajudam a manter o foco e a disciplina.
+- 🎓 &nbsp; Background híbrido: formado em Contabilidade nos EUA e ex‑auditor, trago visão de negócios e qualidade de dados para cada linha de código.
+- 💻 &nbsp; Stack atual: Node.js · Next.js · TypeScript · Prisma · PostgreSQL · AWS · Docker · React / React Native.
+- 🚀 &nbsp; Objetivo: Meu objetivo profissional é continuar aprendendo novas tecnologias e aprimorando minhas habilidades. Estou sempre em busca de desafios que permitam crescimento e desenvolvimento, contribuindo para a construção de soluções inovadoras e otimizadas.
+- ⚽️ &nbsp; Fun‑fact: Além do desenvolvimento, sou entusiasta de esportes e gosto de praticar futevôlei e academia, atividades que me ajudam a manter o foco e a disciplina.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
