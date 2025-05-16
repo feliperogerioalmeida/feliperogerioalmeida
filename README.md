@@ -8,8 +8,8 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; **Background híbrido:** formado em Contabilidade nos EUA e ex‑auditor, trago visão de negócios e qualidade de dados para cada linha de código.
-- 💻 &nbsp;** Stack atual:** Node.js · Next.js · TypeScript · Prisma · PostgreSQL · AWS · Docker · React / React Native.
-- 🚀 &nbsp;** Objetivo:** Meu objetivo profissional é continuar aprendendo novas tecnologias e aprimorando minhas habilidades. Estou sempre em busca de desafios que permitam crescimento e desenvolvimento, contribuindo para a construção de soluções inovadoras e otimizadas.
+- 💻 &nbsp;**Stack atual:** Node.js · Next.js · TypeScript · Prisma · PostgreSQL · AWS · Docker · React / React Native.
+- 🚀 &nbsp;**Objetivo:** Meu objetivo profissional é continuar aprendendo novas tecnologias e aprimorando minhas habilidades. Estou sempre em busca de desafios que permitam crescimento e desenvolvimento, contribuindo para a construção de soluções inovadoras e otimizadas.
 - ⚽️ &nbsp; **Fun‑fact:** Além do desenvolvimento, sou entusiasta de esportes e gosto de praticar futevôlei e academia, atividades que me ajudam a manter o foco e a disciplina.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
