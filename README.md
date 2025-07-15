@@ -37,6 +37,6 @@
 
 
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rogerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperogerioalmeida&show_icons=true&theme=dracula)
+
+
