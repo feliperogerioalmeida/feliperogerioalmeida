@@ -1,4 +1,4 @@
-<h1>👋 &nbsp; Hi, I’m Felipe — a full-stack developer passionate about building real solutions through code!</h1>
+<h1>👋 &nbsp; Hi, I’m Felipe — a Full Stack Software Engineer passionate about building real solutions through code!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-rogerio/"><img src="https://img.shields.io/badge/-Felipe%20Rogerio%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:felipe.rogerio@outlook.com"><img src="https://img.shields.io/badge/-felipe.rogerio@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
